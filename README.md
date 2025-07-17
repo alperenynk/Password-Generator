@@ -2,7 +2,7 @@
 
 A simple Java console application that generates secure and random passwords.
 
-## Features
+## 💡 Features
 - Generates passwords with a minimum length of 6 characters  
 - Includes uppercase letters, lowercase letters, digits, and special characters  
 - Ensures at least one character from each category is included  
